@@ -1,7 +1,7 @@
-## UGV Autonomous Navigation 
+# UGV Autonomous Navigation 
 Final degree project focused on autonomous navigation of a differential-drive UGV.
 
-# Features 
+## Features 
 - Manual control 
 - LIDAR perception 
 - PID motor control 
@@ -10,13 +10,13 @@ Final degree project focused on autonomous navigation of a differential-drive UG
 - Bug2 obstacle avoidance 
 - Autonomous navigation 
 
-# Hardware
+## Hardware
 - Raspberry Pi 4 
 - RPLIDAR 
 - DC motors with encoders 
 - Motor driver 
 
-# Software
+## Software
 - Python 
 - C++ 
 - Simulink 
