@@ -66,3 +66,16 @@ vcpkg_installed/
 # test output & cache
 Testing/
 .cache/
+
+# Python
+__pycache__/
+*.pyc
+
+# Build
+build/
+obj/
+output/
+
+# Comprimidos
+*.zip
+*.rar
